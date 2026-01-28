@@ -14,4 +14,4 @@ teams:
       revision: main
     multiStageKargoAppSet:
       github:
-        organization: kubrixBot
+        organization: kubriX-demo
