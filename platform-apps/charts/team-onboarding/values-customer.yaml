@@ -9,7 +9,7 @@ teams:
       - group: kargo.akuity.io
         kind: Project
     appOfAppsRepo:
-      repoURL: https://github.com/kubrixBot/kubrix-a-apps
+      repoURL: https://github.com/kubrix-demo/kubrix-a-apps
       path: .
       revision: main
     multiStageKargoAppSet:
