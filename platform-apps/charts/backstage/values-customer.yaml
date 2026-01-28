@@ -1,9 +1,10 @@
 backstage:
   backstage:
-    proxy:
-      endpoints:
-        '/github/api':
-          target: 'https://api.github.com'
-          changeOrigin: true
-          headers:
-            Accept: application/vnd.github+json
+    appConfig:
+      proxy:
+        endpoints:
+          '/github/api':
+            target: 'https://api.github.com'
+            changeOrigin: true
+            headers:
+              Accept: application/vnd.github+json
