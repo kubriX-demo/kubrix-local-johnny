@@ -1,0 +1,9 @@
+dependencies:
+- name: grafana
+  repository: https://grafana.github.io/helm-charts
+  version: 10.5.13
+- name: cluster
+  repository: https://cloudnative-pg.github.io/charts
+  version: 0.4.0
+digest: sha256:859591b34c6a2fda0d8db25b329048f1ec4e96668adde4cd0a8965823d93e52c
+generated: "2026-01-27T15:54:23.030836794Z"
