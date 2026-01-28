@@ -2,7 +2,7 @@ teams:
 # new team stanza for team kubrix
   - name: kubrix
     sourceRepos:
-      - 'https://github.com/kubrixBot/kubrix-a-*'
+      - 'https://github.com/kubrix-demo/kubrix-a-*'
     clusterResourceWhitelist:
       - group: ""
         kind: Namespace
